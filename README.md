@@ -27,5 +27,22 @@ http://localhost:2017/video-tag-demo/
 
 http://localhost:2017/emoji-rain-demo/
 
++ Polyfill demo **Safari**
+
+```
+    <script src="https://raw.githubusercontent.com/webcomponents/webcomponentsjs/master/webcomponents.js"></script>
+
+```
+
+Page source: view-source:http://localhost:2017/emoji-rain-demo/
+
+## Yeoman Web Component generator
+
+Installation: https://github.com/webcomponents/generator-element
+
+```
+yo element
+```
+
 
 
