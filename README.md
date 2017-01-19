@@ -11,6 +11,9 @@ npm install -g polymer-cli
 bower install emoji-rain
 
 ```
+```
+bower install google-web-components
+```
 
 Local server
 
